@@ -1,6 +1,6 @@
 # Cerberus Launcher
 
-<img src="docs/icon-512.png" width="160" alt="Cerberus Launcher icon">
+<img src="https://github.com/onknight/Cerberus-phone-launcher-/blob/main/1Cerberus%20Launcher_%20Infernal%20Gatekeeper.png" width="160" alt="Cerberus Launcher icon">
 
 **Version 0.3.2 (beta).** A lean Android phone home screen from Onknight Studios. Portrait, bottom dock, swipe-up app drawer with search, and widgets you can drag around. Written natively in Java with no third-party libraries. It is the phone companion to Onknight Launcher for Android TV, and a separate app.
 
